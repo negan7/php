@@ -35,7 +35,7 @@ include('includes/header.php');
             
         }
         // add the recipient email
-        $to = "deus_mail@inbox.ru";
+        $to = "myemail@mail.ru";
         
         //create a subject
         $subject = "$name sent you a message via your contact form";
